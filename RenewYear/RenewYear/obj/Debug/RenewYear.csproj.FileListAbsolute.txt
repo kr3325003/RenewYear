@@ -1,0 +1,10 @@
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\bin\Debug\RenewYear.exe.config
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\bin\Debug\RenewYear.exe
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\bin\Debug\RenewYear.pdb
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\obj\Debug\RenewYear.csproj.AssemblyReference.cache
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\obj\Debug\RenewYear.Properties.Resources.resources
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\obj\Debug\RenewYear.csproj.GenerateResource.cache
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\obj\Debug\RenewYear.csproj.CoreCompileInputs.cache
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\obj\Debug\RenewYear.exe
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\obj\Debug\RenewYear.pdb
+D:\dj\WinForm\RenewYear\RenewYear\RenewYear\obj\Debug\RenewYear.Form1.resources
